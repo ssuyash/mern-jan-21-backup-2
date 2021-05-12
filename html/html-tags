@@ -1,0 +1,15 @@
+1) html basic structure
+2) title
+
+
+headings => h1 - h6
+text  => p (strong, em, u, sup, sub, pre, br, hr)
+link  => a (attr=> href, target)
+lists => ul li (attr=> type, start)
+iframe => (iframe)
+images => img (attr=> src)
+buttons => button
+
+table 
+forms 
+media
